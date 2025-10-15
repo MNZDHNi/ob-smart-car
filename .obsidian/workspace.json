@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a3a446607b2c067f",
+        "id": "64b60521386511d3",
         "type": "tabs",
         "children": [
           {
-            "id": "cce04490bba82bed",
+            "id": "8e156634586ededd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -153,6 +153,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -161,21 +162,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cce04490bba82bed",
+  "active": "8e156634586ededd",
   "lastOpenFiles": [
-    "stc32学习笔记/引脚复用（48Pin）.md",
-    "stc32学习笔记/I2C.md",
-    "stc32学习笔记/SPI.md",
-    "stc32学习笔记/外部中断.md",
-    "stc32学习笔记/中断.md",
+    "README.md",
     "stc32学习笔记/ADC.md",
-    "资料库/资料列表.md",
-    "stc32学习笔记/串口.md",
+    "stc32学习笔记/中断.md",
+    "stc32学习笔记/引脚复用（48Pin）.md",
+    "stc32学习笔记/外部中断.md",
     "stc32学习笔记/定时器.md",
+    "stc32学习笔记/串口.md",
+    "stc32学习笔记/UART.md",
+    "stc32学习笔记/SPI.md",
+    "stc32学习笔记/I2C.md",
+    "stc32学习笔记/GPIO.md",
+    "stc32学习笔记/DMA.md",
+    "资料库/资料列表.md",
     "stc32软件部分.md",
     "stm32 软件部分.md",
-    "stc32学习笔记/DMA.md",
-    "stc32学习笔记/GPIO.md",
     "Lib",
     "stc32学习笔记",
     "资料库/资料文件/C5210760_单片机(MCU-MPU-SOC)_STC32G12K128-35I-LQFP48_规格书_（已压缩）STC32G-20250711.PDF.pdf",
@@ -185,7 +188,6 @@
     "概述.md",
     "PID",
     "学习路线.md",
-    "README.md",
     "解决方案",
     "attachments"
   ]
