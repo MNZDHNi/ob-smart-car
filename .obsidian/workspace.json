@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "64b60521386511d3",
+        "id": "acd6237da4fcbcfe",
         "type": "tabs",
         "children": [
           {
-            "id": "8e156634586ededd",
+            "id": "0f4426e6aabd709c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -37,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -162,33 +162,40 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8e156634586ededd",
+  "active": "6401a9b91c243abc",
   "lastOpenFiles": [
+    "stc32k12k/stc32g12k学习笔记/资料库",
+    "stc32k12k/stc32g12k学习笔记/SPI.md",
+    "stc32k12k/stc32g12k学习笔记/I2C.md",
+    "stc32k12k/stc32g12k学习笔记/定时器.md",
+    "stc32k12k/stc32g12k学习笔记/DMA.md",
+    "stc32k12k/stc32g12k学习笔记/ADC.md",
+    "stc32k12k/stc32g12k学习笔记",
     "README.md",
-    "stc32学习笔记/ADC.md",
-    "stc32学习笔记/中断.md",
-    "stc32学习笔记/引脚复用（48Pin）.md",
-    "stc32学习笔记/外部中断.md",
-    "stc32学习笔记/定时器.md",
-    "stc32学习笔记/串口.md",
-    "stc32学习笔记/UART.md",
-    "stc32学习笔记/SPI.md",
-    "stc32学习笔记/I2C.md",
-    "stc32学习笔记/GPIO.md",
-    "stc32学习笔记/DMA.md",
-    "资料库/资料列表.md",
-    "stc32软件部分.md",
-    "stm32 软件部分.md",
+    "stc32k12k",
+    "stc32g/stc32软件部分.md",
+    "stc32g/资料库/资料列表.md",
+    "stc32g/stm32 软件部分.md",
+    "stc32g",
+    "stc32g/stc32g学习笔记/ADC.md",
+    "stc32g/stc32g学习笔记/中断.md",
+    "stc32g/stc32g学习笔记/引脚复用（48Pin）.md",
+    "stc32g/stc32g学习笔记/外部中断.md",
+    "stc32g/stc32g学习笔记/定时器.md",
+    "stc32g/stc32g学习笔记/串口.md",
+    "stc32g/stc32g学习笔记/UART.md",
+    "stc32g/stc32g学习笔记/SPI.md",
+    "stc32g/stc32g学习笔记/I2C.md",
+    "stc32g/stc32g学习笔记/GPIO.md",
+    "stc32g/stc32g学习笔记/DMA.md",
     "Lib",
-    "stc32学习笔记",
-    "资料库/资料文件/C5210760_单片机(MCU-MPU-SOC)_STC32G12K128-35I-LQFP48_规格书_（已压缩）STC32G-20250711.PDF.pdf",
-    "资料库/资料文件",
-    "资料库",
-    "资料库/资料文件/STC32G-实验指导书-20250929.pdf",
+    "stc32g/stc32g学习笔记",
+    "stc32g/资料库/资料文件/C5210760_单片机(MCU-MPU-SOC)_STC32G12K128-35I-LQFP48_规格书_（已压缩）STC32G-20250711.PDF.pdf",
+    "stc32g/资料库/资料文件",
+    "stc32g/资料库",
+    "stc32g/资料库/资料文件/STC32G-实验指导书-20250929.pdf",
     "概述.md",
     "PID",
-    "学习路线.md",
-    "解决方案",
-    "attachments"
+    "学习路线.md"
   ]
 }
