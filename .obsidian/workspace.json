@@ -11,10 +11,14 @@
             "id": "0f4426e6aabd709c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "stc32k12k/stc32g12k学习笔记/资料库/资料列表.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "资料列表"
             }
           }
         ]
@@ -162,8 +166,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6401a9b91c243abc",
+  "active": "0f4426e6aabd709c",
   "lastOpenFiles": [
+    "stc32g/资料库/资料列表.md",
+    "stc32k12k/stc32g12k学习笔记/资料库/资料列表.md",
     "stc32k12k/stc32g12k学习笔记/资料库",
     "stc32k12k/stc32g12k学习笔记/SPI.md",
     "stc32k12k/stc32g12k学习笔记/I2C.md",
@@ -174,7 +180,6 @@
     "README.md",
     "stc32k12k",
     "stc32g/stc32软件部分.md",
-    "stc32g/资料库/资料列表.md",
     "stc32g/stm32 软件部分.md",
     "stc32g",
     "stc32g/stc32g学习笔记/ADC.md",
@@ -195,7 +200,6 @@
     "stc32g/资料库",
     "stc32g/资料库/资料文件/STC32G-实验指导书-20250929.pdf",
     "概述.md",
-    "PID",
     "学习路线.md"
   ]
 }
