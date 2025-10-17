@@ -1,5 +1,7 @@
 {
   "strictLineBreaks": true,
   "attachmentFolderPath": "attachments",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "useMarkdownLinks": true,
+  "spellcheck": true
 }

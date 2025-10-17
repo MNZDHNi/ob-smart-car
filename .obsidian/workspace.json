@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "acd6237da4fcbcfe",
+        "id": "db92d7bbbbbc2a43",
         "type": "tabs",
         "children": [
           {
-            "id": "0f4426e6aabd709c",
+            "id": "86d9e4a1c1c4e6dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stc32k12k/stc32g12k学习笔记/资料库/资料列表.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "资料列表"
+              "title": "新标签页"
             }
           }
         ]
@@ -166,21 +162,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0f4426e6aabd709c",
+  "active": "86d9e4a1c1c4e6dc",
   "lastOpenFiles": [
-    "stc32g/资料库/资料列表.md",
-    "stc32k12k/stc32g12k学习笔记/资料库/资料列表.md",
-    "stc32k12k/stc32g12k学习笔记/资料库",
-    "stc32k12k/stc32g12k学习笔记/SPI.md",
-    "stc32k12k/stc32g12k学习笔记/I2C.md",
-    "stc32k12k/stc32g12k学习笔记/定时器.md",
-    "stc32k12k/stc32g12k学习笔记/DMA.md",
-    "stc32k12k/stc32g12k学习笔记/ADC.md",
-    "stc32k12k/stc32g12k学习笔记",
+    "stc32f12k/stc32f12k学习笔记/定时器.md",
+    "stc32f12k/资料库/资料文件",
+    "stc32f12k/stc32f12k学习笔记/外部中断.md",
+    "stc32f12k/stc32f12k学习笔记/引脚复用.md",
+    "stc32f12k/stc32f12k学习笔记/ADC.md",
     "README.md",
-    "stc32k12k",
+    "stc32g/资料库/资料文件/STC32G-实验指导书-20250929.pdf",
+    "stc32g/资料库/资料文件/C5210760_单片机(MCU-MPU-SOC)_STC32G12K128-35I-LQFP48_规格书_（已压缩）STC32G-20250711.PDF.pdf",
+    "stc32f12k/stc32f12k学习笔记/SPI.md",
+    "stc32f12k/stc32f12k学习笔记/I2C.md",
+    "stc32f12k/stc32f12k学习笔记/DMA.md",
     "stc32g/stc32软件部分.md",
+    "stc32f12k/资料库/资料文件/STC32F.pdf",
+    "stc32f12k/资料库/STC32F.pdf.crdownload",
     "stc32g/stm32 软件部分.md",
+    "stc32f12k/stc32f12k软件部分.md",
+    "stc32f12k/资料库/资料列表.md",
+    "stc32g/资料库/资料列表.md",
+    "stc32f12k/资料库",
+    "stc32f12k/stc32f12k学习笔记",
+    "stc32f12k",
     "stc32g",
     "stc32g/stc32g学习笔记/ADC.md",
     "stc32g/stc32g学习笔记/中断.md",
@@ -194,12 +198,6 @@
     "stc32g/stc32g学习笔记/GPIO.md",
     "stc32g/stc32g学习笔记/DMA.md",
     "Lib",
-    "stc32g/stc32g学习笔记",
-    "stc32g/资料库/资料文件/C5210760_单片机(MCU-MPU-SOC)_STC32G12K128-35I-LQFP48_规格书_（已压缩）STC32G-20250711.PDF.pdf",
-    "stc32g/资料库/资料文件",
-    "stc32g/资料库",
-    "stc32g/资料库/资料文件/STC32G-实验指导书-20250929.pdf",
-    "概述.md",
-    "学习路线.md"
+    "概述.md"
   ]
 }
